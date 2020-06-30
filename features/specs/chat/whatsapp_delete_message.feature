@@ -3,7 +3,8 @@
 Funcionalidade: Apagar mensagem
     
     Contexto: Envio de mensagem
-        Dado que o usuario ja tenha enviado a mensagem
+        Dado que o contato selecionado seja "Eduardo"
+        E que o usuario enviou uma mensagem
 
     Cenario: Apagar mensagem para todos
         Quando o usuario selecionar a mensagem desejada

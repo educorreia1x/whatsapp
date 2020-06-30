@@ -17,6 +17,6 @@ Funcionalidade: Bloquear contato
             | Papel de parede        |
             | Mais                   |
         E seleciona a opcao "Mais"
-        E clica em Bloquear
+        Quando o usuario clicar em Bloquear
         E o sistema exibir um alerta "deseja bloquear Eduardo? Contatos bloqueados nao poderao mais ligar ou enviar mensagens para voce."
         Entao o usuario podera clicar em bloquear para finalizar a acao.

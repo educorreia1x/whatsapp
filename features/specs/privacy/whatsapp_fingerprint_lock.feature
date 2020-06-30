@@ -6,7 +6,7 @@ Funcionalidade: Proteger WhatsApp
         Dado que o usuario esta na guia privacidade
         E seleciona "bloqueio por impressao digital"
         E ativa a opcao
-        E ao confirmar sua impressao digital
+        Quando o usuario confirmar sua impressao digital
         E o sistema exibir as opcoes
             | opcoes          |
             | Imediatamente   |
